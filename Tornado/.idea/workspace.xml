@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c0bebc58-6fa5-48e4-888a-604571186301" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mytornado_basic1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mytornado_basic2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mytornado_basic3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/IO/.idea/IO.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/IO/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/IO/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/IO/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/IO/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/IO/day1/Sys_biancheng.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/IO/day1/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/IO/day1/dakai_file.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/IO/day1/dict.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/IO/day1/file" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/IO/day1/file_read.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/IO/day1/file_read1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/IO/day1/file_with.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/IO/day1/file_write.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/IO/day1/homework.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/IO/day1/homework1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/IO/day1/my_buffer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/IO/day1/my_seek.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/IO/day1/pythonNet.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/IO/day1/struct1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/IO/day1/struct_recv.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/IO/day1/struct_send.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/IO/day1/text" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/IO/day1/text,txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/IO/day1/text.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/IO/day2/exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/IO/day2/exe1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/IO/day2/homework.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/IO/day2/lianxi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/IO/day2/my_tcp_client.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/IO/day2/my_tcp_server.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/IO/day2/pythonNet.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/IO/day2/tcp_client.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/IO/day2/tcp_server.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/IO/day3/broadcast_recv.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/IO/day3/broadcast_send.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/IO/day3/day3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/IO/day3/dict.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/IO/day3/exe_client.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/IO/day3/exe_server.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/IO/day3/homework.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/IO/day3/http_server.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/IO/day3/http_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/IO/day3/img.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/IO/day3/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/IO/day3/pythonNet.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/IO/day3/recv.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/IO/day3/send.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/IO/day3/sock_attr.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/IO/day3/udp_client.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/IO/day3/udp_server.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/IO/day3/缓冲区.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/IO/day3/网站访问.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/.idea/concur.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day1/Child_fork.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day1/Child_fork1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day1/OS.fork.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day1/exe.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day1/fork.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day1/fork_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day1/fork_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day1/fork_exit.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day1/fork_getpid.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day1/fork_signal.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day1/fork_signal2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day1/fork_wait.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day1/fork_z.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day1/homework.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day1/img.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day1/review.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day1/student.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day2/bot.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day2/chat_client.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day2/chat_client2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day2/chat_server.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day2/chat_server2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day2/dict.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day2/homework.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day2/process1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day2/process2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day2/process_attr.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day2/process_chuancan.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day2/process_chuancan2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day2/process_pool.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day2/top.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day2/聊天.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day3/Queue_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day3/arrary.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day3/dead_lock.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day3/homework.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day3/myThread.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day3/pipe.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day3/sem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day3/thread_class.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day3/thread_event.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day3/thread_lock.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day3/threading_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day3/threading_attr.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day3/threading_can.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day3/threading_class.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day3/value.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day4/Process_server.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day4/Thread_server.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day4/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day4/day4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day4/fork_server.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day4/ftp/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day4/ftp/day4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day4/ftp/ftp_client.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day4/ftp/ftp_server.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day4/ftp/newfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day4/ftp1/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day4/ftp1/ftp_client.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day4/ftp1/ftp_server.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day4/homework.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day4/multi_process.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day4/multi_thread.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day4/single.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day4/tcp_client.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day4/test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day4/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day4/线程.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day5/epoll_server.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day5/homework.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day5/log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day5/poll_server.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day5/select_server.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day5/setblock_IO.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day6/day6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day6/gevent_server.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day6/httpserver.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day6/static/concurrent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day6/static/data.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day6/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day6/static/pythonNet.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day6/yield.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/concur/day6/系统编程总结.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/data/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/data/.idea/data.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/data/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/data/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/data/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/data/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/data/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/data/day1/Data_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/data/day1/homework.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/data/day1/linklist0.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/data/day1/linklist1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/data/day1/my_Linklist/Data_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/data/day1/my_Linklist/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/data/day1/my_Linklist/bll.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/data/day1/my_Linklist/day1/linklist.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/data/day1/my_Linklist/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/data/day1/my_Linklist/model.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/data/day1/my_Linklist/ui.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/data/day1/my_Linklist/删除获取.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/data/day1/my_Linklist/节点使用.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/data/day1/my_Linklist/链表.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/data/day1/my_Linklist/链表内存.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/data/day2/Sstack.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/data/day2/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/data/day2/day2/check_parens.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/data/day2/day2/day2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/data/day2/day2/dc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/data/day2/day2/lqueue.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/data/day2/day2/lstack.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/data/day2/day2/squeue.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/data/day2/day2/sstack.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/data/day2/dui_lie.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/data/day2/duilie_lqueue.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/data/day2/homework.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/data/day2/lstack.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/data/day2/match(){}[].py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/data/day2/nibolan——&gt;dc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/data/day2/ssetack.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/data/day2/sstack_exe.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/data/day2/链式栈.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/data/day2/链表2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/data/day2/队列.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/data/day2/队列1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/data/day3/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/data/day3/bitree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/data/day3/bitree1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/data/day3/day3/bitree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/data/day3/day3/day3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/data/day3/day3/exc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/data/day3/day3/recursion.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/data/day3/day3/search.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/data/day3/day3/sort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/data/day3/day3/二叉树.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/data/day3/day3/递归.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/data/day3/jiben_paixu.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/data/day3/二分查找-&gt;search.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/data/day3/二分查找1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/data/day3/二叉树.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/data/day3/快速排序.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/data/day3/递归.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/mysql/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/mysql/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/mysql/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/mysql/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/mysql/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/mysql/.idea/mysql.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/mysql/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/mysql/bit_save.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/mysql/dict.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/mysql/i.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/mysql/insert_word.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/mysql/mysql_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/mysql/mysql_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/mysql/mysql_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/mysql/read_db.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/mysql/write_db.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/re_/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/re_/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/re_/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/re_/.idea/re.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/re_/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/re_/exc.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/re_/exc2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/re_/exe.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/re_/exe01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/re_/finditer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/re_/match_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/re_/re_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2advance/re_/server.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4-redis,,spider" beforeDir="false" afterPath="$PROJECT_DIR$/../4-redis,,spider" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziliao/month2/IO/IO网络编程.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziliao/month2/IO/day1_all.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziliao/month2/IO/day2_ALL.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziliao/month2/IO/day3_am.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziliao/month2/IO/day3_pm.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziliao/month2/IO/pythonNet.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziliao/month2/SQL1/MySQL.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziliao/month2/SQL1/Mysql.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziliao/month2/SQL1/dict.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziliao/month2/SQL1/mysql_2.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziliao/month2/concur/concurrent.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziliao/month2/concur/cur.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziliao/month2/concur/ftp.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziliao/month2/data/chatroom.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziliao/month2/data/day1_PM.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziliao/month2/data/day2_all.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziliao/month2/data/day3_all.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziliao/month2/data/数据结构 (总结).md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziliao/month2/data/数据结构.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziliao/month2/data/数据结构.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziliao/month2/git/git.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziliao/month2/git/git.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziliao/month2/git/git.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziliao/month2/git/分布式.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziliao/month2/project" beforeDir="false" afterPath="$PROJECT_DIR$/../ziliao/month2/project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziliao/month2/re/RE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziliao/month2/re/RE.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziliao/month2/re/img/re.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziliao/month2/re/img/re1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziliao/month2/re/re.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziliao/month4/spider_day06_note(1)/spider_day06_note/spider_day06_to_students/spider_day06_to_students.md" beforeDir="false" afterPath="$PROJECT_DIR$/../ziliao/month4/spider_day06_note(1)/spider_day06_note/spider_day06_to_students/spider_day06_to_students.md" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mytornado_basic1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mytornado_basic2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="792">
+              <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+              <folding>
+                <element signature="e#27#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mytornado_basic3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="32" column="22" lean-forward="true" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24">
+              <caret line="1" column="36" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/mytornado_basic1.py" />
+        <option value="$PROJECT_DIR$/config" />
+        <option value="$PROJECT_DIR$/mytornado_basic2.py" />
+        <option value="$PROJECT_DIR$/mytornado_basic3.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="25" />
+    <option name="width" value="1228" />
+    <option name="height" value="422" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../4-redis,,spider/spider-11" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.mytornado_basic3">
+    <configuration name="mytornado_basic1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Tornado" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mytornado_basic1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mytornado_basic2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Tornado" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mytornado_basic2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mytornado_basic3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Tornado" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mytornado_basic3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.mytornado_basic3" />
+        <item itemvalue="Python.mytornado_basic2" />
+        <item itemvalue="Python.mytornado_basic1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0bebc58-6fa5-48e4-888a-604571186301" name="Default Changelist" comment="" />
+      <created>1566387456799</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566387456799</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1373" height="875" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.024916943" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info id="DB Browser" order="3" weight="0.32907802" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.25268817" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="DB Execution Console" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3288719" />
+      <window_info anchor="bottom" id="Python Console" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.024916943" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info id="DB Browser" order="3" weight="0.32907802" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32854208" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="DB Execution Console" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3288719" />
+      <window_info anchor="bottom" id="Python Console" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/mytornado_basic1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mytornado_basic2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+          <folding>
+            <element signature="e#27#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="36" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mytornado_basic3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="32" column="22" lean-forward="true" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
